@@ -1,0 +1,92 @@
+////////Don't Flip the Table!\\\\
+///////////(╯°□°)╯︵ ┻━┻\\\\\\\\
+-----
+Guess a letter: s
+
+s---s
+(s)
+
+Guess a letter: a
+
+sa--s
+(sa)
+
+Guess a letter: m
+
+sam-s
+(sam)
+
+Guess a letter: u
+
+samus
+(samu)
+
+Noice job m8
+Would you like to play again? (y/n) y
+-----
+Guess a letter: s
+
+s----
+(s)
+
+Guess a letter: h
+
+sh---
+(sh)
+
+Guess a letter: u
+
+shu--
+(shu)
+
+Guess a letter: k
+
+shu-k
+(shuk)
+
+Guess a letter: j
+
+shu-k
+(shukj)
+(╯
+Guess a letter: h
+
+shu-k
+(shukjh)
+(╯
+Guess a letter: g
+
+shu-k
+(shukjhg)
+(╯°□°
+Guess a letter: f
+
+shu-k
+(shukjhgf)
+(╯°□°)╯
+Guess a letter: d
+
+shu-k
+(shukjhgfd)
+(╯°□°)╯︵ ┻
+Guess a letter: s
+
+shu-k
+(shukjhgfds)
+(╯°□°)╯︵ ┻
+Guess a letter: r
+
+shu-k
+(shukjhgfdsr)
+(╯°□°)╯︵ ┻━
+Guess a letter: t
+
+shu-k
+(shukjhgfdsrt)
+(╯°□°)╯︵ ┻━┻
+ur not even good
+Would you like to play again? (y/n) n
+********Don't Flip the Table********
+**********(╯°□°)╯︵ ┻━┻************
+************************************
+************By Tristan**************
